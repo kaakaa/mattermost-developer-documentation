@@ -1,0 +1,12 @@
+# build artifacts
+/dist
+/site/data/PluginGoDocs.json
+/site/data/PluginManifestDocs.json
+/site/data/PluginJSDocs.json
+/site/data/DevTalks.json
+/scripts/node_modules
+/scripts/mattermost-webapp
+
+# os artifacts
+*.swp
+.DS_Store
